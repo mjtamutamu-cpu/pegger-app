@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Pegger",
+  "description": "A unique short-video platform featuring AI-powered discovery, live streaming, and creator tools within a sleek, modern visual environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
